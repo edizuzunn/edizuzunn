@@ -20,4 +20,4 @@
     ## 📫 Reach Me    
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/edizuzun/)    
     [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:edizuzun34@gmail.com)    
-<img width="470" height="315" alt="image" src="https://github.com/user-attachments/assets/df1fd49e-645f-4196-9e71-513f567308b0" />
+
